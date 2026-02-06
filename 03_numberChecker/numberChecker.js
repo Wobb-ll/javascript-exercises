@@ -6,5 +6,11 @@ function numberChecker(number) {
   }
 }
 
+// ternary operator version //
+// function numberChecker(number) {
+//   let check = (number >= 10) ? true : false;
+//   return check;
+// }
+
 // Do not edit below this line
 module.exports = numberChecker;
